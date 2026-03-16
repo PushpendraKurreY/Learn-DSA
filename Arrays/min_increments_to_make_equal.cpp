@@ -1,3 +1,5 @@
+/*This code for finding min number of total increments by k 
+needed to make all elements equal.*/
 #include <bits/stdc++.h>
 
 using namespace std;
