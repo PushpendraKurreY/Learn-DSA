@@ -20,7 +20,7 @@ int maxProfit(vector<int> &arr) {
 }
 
 int main() {
-    vector<int> arr={1,5,3,4};
+    vector<int> arr={10,10,10,11,14,15,18,19,20,25,24,22,23,20,23,24,22,19,18,15,16,17,19,17,16,19};
     cout << maxProfit(arr);
     return 0;
 }
