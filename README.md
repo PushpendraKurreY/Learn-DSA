@@ -2,7 +2,10 @@
 
 This repository contains all my solutions and practice codes for DSA.
 
-I am solving problems from some platforms to improve my problem solving skills.
+I am solving these problems to improve my problem solving skills.
 
 Languages used : C, C++
-Platforms : Leetcode, GFG
+
+Platforms for practice : LeetCode, GeeksForGeeks
+
+Topics Covered : -> Arrays
