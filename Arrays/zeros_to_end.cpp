@@ -1,3 +1,7 @@
+/*Problem : In a given array shift all the zeroes to the end.*/
+
+//Solution :
+
 #include <bits/stdc++.h>
 using namespace std;
 

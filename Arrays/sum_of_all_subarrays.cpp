@@ -1,3 +1,7 @@
+/*Problem : For a given array find the sum of all possible subarrays.*/
+
+//Solution :
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,7 @@
+/*Problem : Rotate an given array by given number n times.*/
+
+//Solution :
+
 #include <bits/stdc++.h>
 using namespace std;
 

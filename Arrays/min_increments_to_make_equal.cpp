@@ -1,5 +1,8 @@
-/*This code is for finding min number of total increments by k 
+/*Problem : This code is for finding min number of total increments by k 
 needed to make all elements of array equal.*/
+
+//Solution :
+
 #include <bits/stdc++.h>
 
 using namespace std;

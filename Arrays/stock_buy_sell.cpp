@@ -1,4 +1,6 @@
-/*Problem : We have to buy and sell stocks such that we make max profit.*/
+/*Problem : The elements of a given array are prices of a stock 
+in varius regular days. We have to buy and sell stocks such that 
+we make max profit.*/
 
 //solution :
 
