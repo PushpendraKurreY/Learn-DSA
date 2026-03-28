@@ -1,3 +1,8 @@
+/*Problem : We have to devide the array in three parts 
+for which sum of elements of all three parts are equal.*/
+
+//Solution : 
+
 #include <bits/stdc++.h>
 using namespace std;
 
