@@ -4,8 +4,18 @@ This repository contains all my solutions and practice codes for DSA.
 
 I am solving these problems to improve my problem solving skills.
 
-Languages used : C, C++
+## Languages used : 
 
-Platforms for practice : LeetCode, GeeksForGeeks
+- C
+- C++
 
-Topics Covered : -> Arrays
+## Platforms for practice :
+
+- LeetCode
+- GeeksForGeeks
+- Striver's A2Z DSA Sheet
+- Striver's SDE Sheet
+
+## Topics Covered :
+
+- Arrays
